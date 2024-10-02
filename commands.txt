@@ -1,0 +1,12 @@
+Voici les commande que j'ai utilisé
+git clone https://github.com/jjkerko/outil_collaboratif.git
+cd + chemin contenant le lien
+git status 
+gid add profile.txt
+git commit -m "envoi du nom et du prenom ainsi que creation du profil.txt"
+git config --global user.name "jjkerko"
+git config --global user.email akangatianatp@gmail.com
+git add theory.txt commands.txt
+git commit -m "envoi du nom et du prenom ainsi que creation du profil.txt"
+git push origin main
+

@@ -1,0 +1,21 @@
+a.	Que permet de faire la commande git pull ? 
+--> git pull permet generalement de récuperer les dernier modifications du dépôt distant ainsi que de 
+fusionner ces modifications avec la branche locale actuelle.
+
+b.	Que permet de faire la commande git clone ? 
+--> La commande git clone permet de cloner un répertoir dans github en tapant git clone + le lien 
+en créer une copie dans notre répertoir locale du contenu de cette lien.
+
+c.Expliquer ce que fait un « fork » ?
+--> Un fork fait un copie exacte du dépot original dans le compte github, de ce fait il permet de
+ modifier librement cette copie sans affecter le projet original constituant ainsi un point de départ
+ pour developper notre propre projet.
+
+ d.	Expliquez brièvement l’utilité d’une pull request (PR) ? 
+--> Le pull request donne une facilité aux autres collaborateurs pour lz révision du code et principalement, 
+il  permet de tester les modifications dans un environnement isolé avant de les fusionner dans la branche principale.
+
+
+
+
+
